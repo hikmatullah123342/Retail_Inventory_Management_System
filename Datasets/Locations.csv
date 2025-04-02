@@ -1,0 +1,301 @@
+LocationID,RegionID,LocationName,Address
+L01A1,Region133,New York City,55342 Dahle Way
+L01A2,Region102,Los Angeles,66 Morrow Road
+L01A3,Region83,Chicago,7614 Delladonna Center
+L01A4,Region41,Houston,2 Meadow Ridge Plaza
+L01A5,Region26,Phoenix,330 Grasskamp Circle
+L01A6,Region131,Philadelphia,77351 Vahlen Trail
+L01A7,Region26,San Antonio,2 Homewood Terrace
+L01A8,Region51,San Diego,0 Westerfield Park
+L01A9,Region61,Dallas,01797 Porter Street
+L01A10,Region69,San Jose,9 Charing Cross Terrace
+L01B1,Region31,Austin,3818 Dapin Plaza
+L01B2,Region74,Jacksonville,34324 Oxford Court
+L01B3,Region133,Fort Worth,2936 Maywood Circle
+L01B4,Region102,Columbus,88414 Main Avenue
+L01B5,Region39,Charlotte,21 Randy Hill
+L01B6,Region138,San Francisco,097 Fairfield Parkway
+L01B7,Region150,Indianapolis,513 International Way
+L01B8,Region133,Seattle,35331 Lillian Pass
+L01B9,Region125,Denver,9 5th Avenue
+L01B10,Region4,Washington DC,53701 Kingsford Point
+L01C1,Region84,Boston,39 Dunning Park
+L01C2,Region24,El Paso,85 Columbus Way
+L01C3,Region3,Nashville,861 Oxford Place
+L01C4,Region73,Detroit,0 Welch Alley
+L01C5,Region50,Oklahoma City,18287 Ilene Alley
+L01C6,Region137,Portland,93 Daystar Center
+L01C7,Region114,Las Vegas,874 East Place
+L01C8,Region87,Memphis,65 Main Plaza
+L01C9,Region41,Louisville,8 Portage Crossing
+L01C10,Region94,Baltimore,23 Larry Pass
+L01D1,Region96,Milwaukee,564 Wayridge Court
+L01D2,Region149,Albuquerque,6 Hanover Hill
+L01D3,Region57,Tucson,17222 Welch Trail
+L01D4,Region132,Fresno,2324 Badeau Parkway
+L01D5,Region110,Sacramento,254 Kim Hill
+L01D6,Region21,Kansas City,498 Florence Way
+L01D7,Region21,Mesa,953 Bay Court
+L01D8,Region19,Atlanta,436 Morningstar Terrace
+L01D9,Region6,Omaha,30453 Mcguire Crossing
+L01D10,Region57,Colorado Springs,53099 Weeping Birch Way
+L01E1,Region44,Raleigh,90540 Kennedy Park
+L01E2,Region20,Miami,59 Gina Hill
+L01E3,Region27,Long Beach,8 Messerschmidt Junction
+L01E4,Region28,Virginia Beach,4 Ilene Junction
+L01E5,Region118,Oakland,801 Blue Bill Park Hill
+L01E6,Region124,Minneapolis,5909 Farmco Avenue
+L01E7,Region24,Tulsa,65 Barnett Road
+L01E8,Region60,Arlington,9598 Clyde Gallagher Street
+L01E9,Region114,New Orleans,84 Cambridge Street
+L01E10,Region81,Wichita,93 Armistice Park
+L02A1,Region142,Cleveland,1284 Boyd Parkway
+L02A2,Region125,Tampa,592 Mosinee Drive
+L02A3,Region1,Bakersfield,79441 Esker Place
+L02A4,Region117,Aurora,1 Charing Cross Circle
+L02A5,Region51,Anaheim,05 Stone Corner Circle
+L02A6,Region106,Honolulu,9848 Ridgeway Crossing
+L02A7,Region58,Santa Ana,26563 Service Center
+L02A8,Region114,Riverside,90 Briar Crest Terrace
+L02A9,Region126,Corpus Christi,32 Mosinee Plaza
+L02A10,Region22,Lexington,28101 American Ash Parkway
+L02B1,Region49,Stockton,5188 Walton Junction
+L02B2,Region66,Henderson,939 Westend Drive
+L02B3,Region142,St. Paul,3513 Dwight Street
+L02B4,Region92,St. Louis,0 Lakeland Center
+L02B5,Region7,Cincinnati,6804 Hovde Circle
+L02B6,Region9,Pittsburgh,8 Bluestem Alley
+L02B7,Region8,Greensboro,09462 Tennyson Alley
+L02B8,Region51,Anchorage,9458 Luster Court
+L02B9,Region136,Plano,500 Rockefeller Road
+L02B10,Region118,Lincoln,594 Hoepker Drive
+L02C1,Region7,Orlando,65054 Gerald Park
+L02C2,Region74,Irvine,34509 Lakewood Gardens Hill
+L02C3,Region68,Toledo,31455 Pine View Terrace
+L02C4,Region76,Jersey City,2 Colorado Way
+L02C5,Region3,Chula Vista,44423 Cordelia Place
+L02C6,Region66,Durham,3331 Lake View Alley
+L02C7,Region7,Fort Wayne,55065 Towne Street
+L02C8,Region85,St. Petersburg,78 Transport Point
+L02C9,Region30,Laredo,38 Mesta Way
+L02C10,Region61,Buffalo,38 Old Shore Crossing
+L02D1,Region116,Madison,55992 6th Hill
+L02D2,Region18,Lubbock,51965 Brickson Park Park
+L02D3,Region79,Chandler,42609 Ridgeview Pass
+L02D4,Region110,Scottsdale,032 Drewry Circle
+L02D5,Region148,Reno,2 Moose Drive
+L02D6,Region43,Glendale,69091 Meadow Vale Circle
+L02D7,Region41,Norfolk,78288 Daystar Terrace
+L02D8,Region52,Winston-Salem,08 Muir Center
+L02D9,Region86,North Las Vegas,284 Farwell Drive
+L02D10,Region76,Gilbert,5 Carey Alley
+L02E1,Region108,Chesapeake,9900 Lillian Point
+L02E2,Region112,Boise,56592 Brentwood Avenue
+L02E3,Region20,Baton Rouge,78 Eggendart Way
+L02E4,Region79,Richmond,91 Sugar Center
+L02E5,Region21,Des Moines,77 Chinook Alley
+L02E6,Region25,San Bernardino,1067 Birchwood Trail
+L02E7,Region102,Spokane,6 Fairfield Crossing
+L02E8,Region6,Birmingham,638 Mccormick Road
+L02E9,Region124,Modesto,5 Butterfield Court
+L02E10,Region47,Rochester,2363 Hauk Road
+L03A1,Region113,Salt Lake City,3664 Fieldstone Avenue
+L03A2,Region83,Huntington Beach,439 Browning Alley
+L03A3,Region124,Grand Rapids,9 Northport Pass
+L03A4,Region73,Amarillo,868 Weeping Birch Park
+L03A5,Region131,Yonkers,166 Lyons Lane
+L03A6,Region20,Aurora (IL),49 Miller Avenue
+L03A7,Region97,Montgomery,4169 Gateway Circle
+L03A8,Region60,Little Rock,05129 Pine View Circle
+L03A9,Region87,Akron,9626 Myrtle Trail
+L03A10,Region39,Shreveport,765 Wayridge Trail
+L03B1,Region85,Augusta,9 Bay Circle
+L03B2,Region60,Grand Prairie,986 Hansons Way
+L03B3,Region112,Mobile,7 Merchant Terrace
+L03B4,Region35,Columbus (GA),23693 Debs Park
+L03B5,Region70,Fort Lauderdale,50402 Sutteridge Court
+L03B6,Region33,Chattanooga,039 Brentwood Road
+L03B7,Region22,Tempe,70 Brown Pass
+L03B8,Region104,Overland Park,129 Mccormick Terrace
+L03B9,Region62,Tallahassee,359 Quincy Way
+L03B10,Region115,McKinney,14 Hoepker Park
+L03C1,Region125,Cape Coral,5945 La Follette Circle
+L03C2,Region83,Salem,9714 Alpine Avenue
+L03C3,Region84,Clarksville,2 Heath Trail
+L03C4,Region96,Peoria,8 Grover Way
+L03C5,Region74,Springfield,1577 Waywood Road
+L03C6,Region58,Hollywood,4 Sunbrook Crossing
+L03C7,Region2,Pasadena,2 Dapin Parkway
+L03C8,Region3,Sunnyvale,6124 Grim Road
+L03C9,Region20,Kansas City (KS),85492 Hovde Drive
+L03C10,Region143,Pomona,3022 Springview Street
+L03D1,Region56,Escondido,153 Bayside Terrace
+L03D2,Region22,Joliet,66052 Sundown Avenue
+L03D3,Region7,Bellevue,4 Blackbird Avenue
+L03D4,Region31,Rockford,1655 Westport Parkway
+L03D5,Region19,Savannah,965 Elka Pass
+L03D6,Region15,Torrance,2103 Monument Hill
+L03D7,Region15,Bridgeport,01190 Eastwood Alley
+L03D8,Region7,Paterson,51606 Vidon Parkway
+L03D9,Region124,Naperville,71 Kingsford Drive
+L03D10,Region100,Syracuse,35200 Pennsylvania Park
+L03E1,Region111,Mesquite,822 Heffernan Court
+L03E2,Region78,Fort Collins,53156 Londonderry Alley
+L03E3,Region16,Orange,20633 Corben Lane
+L03E4,Region21,Dayton,8488 Pankratz Road
+L03E5,Region57,Fullerton,6 Sunnyside Circle
+L03E6,Region50,McAllen,4 Algoma Parkway
+L03E7,Region44,Killeen,4011 Washington Avenue
+L03E8,Region14,Frisco,2758 Roxbury Point
+L03E9,Region10,Hampton,49 Dennis Road
+L03E10,Region144,Warren,79745 Fordem Point
+L04A1,Region124,Charleston,853 Twin Pines Hill
+L04A2,Region4,Murfreesboro,8 Farragut Way
+L04A3,Region16,Midland,669 Mitchell Street
+L04A4,Region132,Denton,13 Kensington Crossing
+L04A5,Region30,Cedar Rapids,3 Leroy Pass
+L04A6,Region137,Pueblo,460 Hanson Street
+L04A7,Region15,Stamford,36 Ronald Regan Circle
+L04A8,Region54,Bellevue (WA),5 Havey Court
+L04A9,Region67,Concord,93 Rigney Junction
+L04A10,Region8,Miramar,13063 Judy Drive
+L04B1,Region49,Coral Springs,31 Derek Crossing
+L04B2,Region138,Lafayette,0 East Road
+L04B3,Region77,Kent,28922 Swallow Center
+L04B4,Region38,Roseville,4 Larry Point
+L04B5,Region146,Charleston (SC),64674 Jay Center
+L04B6,Region1,Thousand Oaks,803 Superior Lane
+L04B7,Region148,Elizabeth,15666 Vahlen Circle
+L04B8,Region12,Gainesville,6 Messerschmidt Alley
+L04B9,Region31,Topeka,5 Clemons Plaza
+L04B10,Region142,Cary,0 Carioca Lane
+L04C1,Region119,Thornton,49 Service Plaza
+L04C2,Region26,Kent (WA),5 Amoth Plaza
+L04C3,Region126,Simi Valley,8612 Dexter Avenue
+L04C4,Region121,Victorville,673 Buell Plaza
+L04C5,Region37,Vallejo,064 Trailsway Crossing
+L04C6,Region13,Evansville,68 Tennessee Crossing
+L04C7,Region4,Athens,968 Saint Paul Terrace
+L04C8,Region150,Allentown,749 Sommers Road
+L04C9,Region95,Abilene,7130 Morningstar Place
+L04C10,Region137,Norman,25 Green Lane
+L04D1,Region52,Columbia,56591 South Place
+L04D2,Region68,Berkeley,615 Springview Terrace
+L04D3,Region51,Provo,0343 Mayer Avenue
+L04D4,Region9,Lansing,706 Westerfield Plaza
+L04D5,Region126,Fargo,01 Farragut Way
+L04D6,Region123,Downey,36361 Oak Trail
+L04D7,Region34,Costa Mesa,8409 Monica Drive
+L04D8,Region131,Wilmington,2092 Mockingbird Place
+L04D9,Region66,Clearwater,4 Beilfuss Parkway
+L04D10,Region75,Manchester,36781 Roth Lane
+L04E1,Region76,West Valley City,6890 Surrey Court
+L04E2,Region148,Murrieta,5493 Algoma Court
+L04E3,Region63,Pueblo (CO),8 Kipling Parkway
+L04E4,Region65,El Monte,118 Grover Way
+L04E5,Region37,Carlsbad,19201 Farragut Place
+L04E6,Region39,North Charleston,71341 Paget Center
+L04E7,Region89,Temecula,945 Eggendart Avenue
+L04E8,Region129,Gresham,1656 Mosinee Court
+L04E9,Region94,Palm Bay,908 Holmberg Drive
+L04E10,Region94,Waterbury,0 Crownhardt Avenue
+L05A1,Region9,West Jordan,1223 Helena Point
+L05A2,Region22,Round Rock,9 Vernon Alley
+L05A3,Region125,Billings,93 Stuart Parkway
+L05A4,Region30,Everett,67366 Declaration Circle
+L05A5,Region78,Broken Arrow,04 Delladonna Trail
+L05A6,Region149,Inglewood,586 Arapahoe Terrace
+L05A7,Region89,Miami Gardens,388 Mockingbird Crossing
+L05A8,Region96,Midland (TX),3 Commercial Alley
+L05A9,Region109,West Palm Beach,91 Dexter Avenue
+L05A10,Region69,Richardson,964 Knutson Court
+L05B1,Region12,Pompano Beach,0 Bowman Circle
+L05B2,Region67,Arvada,4172 Orin Terrace
+L05B3,Region69,Daly City,5594 Cambridge Street
+L05B4,Region82,Boulder,4504 Oneill Avenue
+L05B5,Region149,Green Bay,1 Transport Circle
+L05B6,Region80,West Covina,1705 Tennessee Point
+L05B7,Region70,Greeley,5 Chinook Park
+L05B8,Region37,Sparks,923 Del Sol Lane
+L05B9,Region91,League City,050 Mesta Plaza
+L05B10,Region26,Tyler,8608 Hauk Street
+L05C1,Region28,Davenport,1 Leroy Street
+L05C2,Region111,Lewisville,15 Spohn Hill
+L05C3,Region53,San Angelo,7 Maywood Point
+L05C4,Region8,Las Cruces,376 Atwood Way
+L05C5,Region20,Erie,25 Mitchell Pass
+L05C6,Region145,Jurupa Valley,6 Cambridge Drive
+L05C7,Region57,South Bend,8 Drewry Terrace
+L05C8,Region38,Renton,39 Shasta Place
+L05C9,Region13,Vista,0 Butterfield Pass
+L05C10,Region59,Davie,6 Menomonie Trail
+L05D1,Region142,Tuscaloosa,149 Ohio Avenue
+L05D2,Region145,Clovis,54 Shelley Place
+L05D3,Region83,New Haven,4 Novick Junction
+L05D4,Region42,Antioch,0705 Caliangt Avenue
+L05D5,Region131,Edinburg,5 Kingsford Plaza
+L05D6,Region78,Chico,3 Emmet Trail
+L05D7,Region14,Odessa,94997 Sauthoff Alley
+L05D8,Region79,Lakeland,99 Sutherland Crossing
+L05D9,Region84,Burbank,67 Riverside Terrace
+L05D10,Region29,Gulfport,8423 Hermina Lane
+L05E1,Region93,San Mateo,9 Manufacturers Center
+L05E2,Region11,Vacaville,491 Northwestern Lane
+L05E3,Region9,Norwalk,2957 Bunting Hill
+L05E4,Region110,Rialto,175 Northland Circle
+L05E5,Region42,Compton,6 Ruskin Pass
+L05E6,Region24,Brockton,198 Stephen Point
+L05E7,Region14,Quincy,47 Acker Pass
+L05E8,Region140,Lynn,33 Birchwood Road
+L05E9,Region112,Fall River,0581 Norway Maple Street
+L05E10,Region91,Newton,9101 Hagan Terrace
+L06A1,Region130,Lawrence,04425 Hovde Lane
+L06A2,Region145,Somerville,0531 Transport Terrace
+L06A3,Region12,Springfield (MA),580 Spaight Road
+L06A4,Region135,Medford,24653 Delaware Plaza
+L06A5,Region137,Malden,97192 Golf View Park
+L06A6,Region118,Waltham,9 Lotheville Terrace
+L06A7,Region104,Brookline,11842 Holy Cross Lane
+L06A8,Region118,Plymouth,54383 Bartillon Point
+L06A9,Region40,Peabody,5581 Brickson Park Pass
+L06A10,Region5,Framingham,77016 Harper Lane
+L06B1,Region103,Haverhill,14883 Jenna Lane
+L06B2,Region50,Everett (MA),88 Parkside Drive
+L06B3,Region112,Chelsea,47 Corscot Street
+L06B4,Region41,Revere,0 Sullivan Center
+L06B5,Region81,Salem (MA),78 Mitchell Lane
+L06B6,Region115,Fitchburg,3 Golf Course Way
+L06B7,Region15,Attleboro,12 Ridgeview Hill
+L06B8,Region148,Taunton,53790 Lakewood Gardens Point
+L06B9,Region121,Weymouth,5575 Moose Road
+L06B10,Region10,Braintree,43 Rockefeller Hill
+L06C1,Region119,Methuen,1 Blaine Parkway
+L06C2,Region8,Barnstable,87 Arrowood Place
+L06C3,Region50,Pittsfield,87 American Ash Road
+L06C4,Region131,Westfield,6976 Lindbergh Way
+L06C5,Region105,Leominster,9 Doe Crossing Parkway
+L06C6,Region40,Beverly,2 Mariners Cove Hill
+L06C7,Region39,Holyoke,73421 Jenifer Terrace
+L06C8,Region7,Marlborough,2 Chinook Court
+L06C9,Region141,Woburn,84982 Vermont Plaza
+L06C10,Region8,Amherst,450 Corscot Pass
+L06D1,Region140,Shrewsbury,707 Mifflin Drive
+L06D2,Region84,Franklin,88 Browning Avenue
+L06D3,Region14,Randolph,92 Spenser Crossing
+L06D4,Region65,Needham,11943 Westerfield Parkway
+L06D5,Region109,Agawam,7031 Surrey Crossing
+L06D6,Region11,Burlington,685 Sutteridge Hill
+L06D7,Region120,Stoneham,3 Kingsford Court
+L06D8,Region108,Danvers,3 Service Road
+L06D9,Region40,Dracut,73 Dennis Terrace
+L06D10,Region142,Tewksbury,757 Sage Pass
+L06E1,Region85,Billerica,45 Brickson Park Place
+L06E2,Region37,Belmont,97 Summer Ridge Court
+L06E3,Region34,Andover,14949 Fallview Drive
+L06E4,Region149,North Andover,49331 Pierstorff Road
+L06E5,Region40,Chelmsford,0 Farwell Trail
+L06E6,Region139,Lexington,195 5th Drive
+L06E7,Region47,Acton,7580 Little Fleur Trail
+L06E8,Region16,Bedford,55034 Bay Trail
+L06E9,Region75,Concord (MA),604 Sundown Circle
+L06E10,Region116,Winchester,4 Union Terrace
